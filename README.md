@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mersad Mohammad Hossini</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-<img align="right" width="400" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mersad-hossini&label=Profile%20views&color=0e75b6&style=flat" alt="mersad-hossini" /> </p>
 
@@ -16,6 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mersadhossini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mersadhossini/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mersad__hossein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mersad__hossein" height="30" width="40" /></a>
 <a href="https://discord.gg/icarus5058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="icarus5058" height="30" width="40" /></a>
 </p>
@@ -28,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mersad-hossini&show_icons=true&locale=en" alt="mersad-hossini" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mersad-hossini&" alt="mersad-hossini" /></p>
-

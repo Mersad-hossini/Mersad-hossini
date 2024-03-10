@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **Html , Css , Bootstrap , Js , Sass , Postman**
+- 💬 Ask me about **Html , Css , Bootstrap , Js , ...**
 
 - 📫 How to reach me **mersadmh.front@gmail.com**
 
